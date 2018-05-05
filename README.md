@@ -1,0 +1,1 @@
+Script gets a random quote and sends the quote to the users using the Telegram's @answeranything bot, everyday at 1PM IST.
