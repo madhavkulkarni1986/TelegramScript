@@ -1,9 +1,9 @@
 ##################################################################
-### 				***** Quotes Telegram *****				   ###
+### 		      ***** Quotes Telegram *****    	       ###
 ##################################################################
-### Author 	: Madhava Kulkarni								   ###
-### E-mail 	: madhav.kulkarni1986@gmail.com 				   ###
-### License : Free to use, modify and distribute			   ###
+### Author 	: Madhava Kulkarni			       ###
+### E-mail 	: madhav.kulkarni1986@gmail.com                ###
+### License : Free to use, modify and distribute	       ###
 ### For all the details and setup instructions, view README.md ###
 ##################################################################
 import requests
